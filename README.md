@@ -20,6 +20,7 @@ Each module is independent with each other, and you can test function in test fi
 - 01-initial: Create SQL session and basic CRUD operations with MyBatis.
 - 02-springboot: Integrate MyBatis with spring boot
 - 03-annotation: Use annotation to configure MyBatis 
+- 04-codegenerator: Use MyBatis Code Generator (MBG) to automatically generate dao layer code.
 
 # Thinking
 
