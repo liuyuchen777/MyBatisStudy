@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/02-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/00-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/03-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/04-codegenerator/pom.xml" />
       </list>
     </option>
   </component>

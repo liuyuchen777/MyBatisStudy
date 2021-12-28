@@ -16,7 +16,10 @@ Each module is independent with each other, and you can test function in test fi
 
 # Module
 
+- 00-jdbc: Traditional jdbc to retrieve data from db
 - 01-initial: Create SQL session and basic CRUD operations with MyBatis.
+- 02-springboot: Integrate MyBatis with spring boot
+- 03-annotation: Use annotation to configure MyBatis 
 
 # Thinking
 
